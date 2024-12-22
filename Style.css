@@ -1,0 +1,90 @@
+body 
+{
+    background-color: rgb(155, 83, 24);
+}
+
+p 
+{
+    color: aliceblue;
+    font-size: 4vw;
+}
+
+h3 
+{
+    text-align: center;
+    color: aliceblue;
+    font-size: 2vw;
+}
+
+h4 
+{
+    text-align: center;
+    color: aliceblue;
+    font-size: 1vw;
+}
+
+.main 
+{
+    margin-bottom: 0%;
+}
+
+.Upgrade_Header 
+{
+    background-color: rgb(138, 62, 0);
+    margin-left: 80%;
+    padding-bottom: 50%;
+
+    border-radius: 25px;
+}
+
+.Cookie
+{
+    background-color: rgb(209, 107, 24);
+    width: 10vw;
+    height: 10vw;
+    border-radius: 120px;
+}
+
+.Cookie_Main_Section 
+{
+    position: absolute;
+    top: 50%; left: 50%; transform: translate(-50%, -50%);
+}
+
+.Purchase_Container 
+{
+    background-color: rgb(41, 41, 41);
+    border-radius: 25px;
+}
+
+.Purchase_Container_Content 
+{
+    width: 100%;
+    background-color: rgb(75, 75, 75);
+    padding-bottom: 5%;
+    border-radius: 25px;
+
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+}
+
+.Purchase_Button 
+{
+background-color: rgb(41, 41, 41);
+border:none;
+color: aliceblue;
+}
+
+.View_port 
+{
+    height: 25vw;
+    width: 100%;
+}
+
+.Save_Button 
+{
+    margin-left: 87.5%;
+    height: 10%;
+    width: 5%;
+}
